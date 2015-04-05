@@ -24,6 +24,4 @@ public class MenuController {
 		return list;
 	}
 	
-	111222
-	
 }
